@@ -21,4 +21,4 @@
 🌱 Building in public — Day 1 of 120
 Documenting everything I learn about QA Engineering
 
-📫 Connect with me on LinkedIn: https://www.linkedin.com/in/janhavi-morajkar-3a335b289
+📫 Connect with me on LinkedIn: linkedin.com/in/janhavimorajkar
