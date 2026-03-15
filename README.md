@@ -18,7 +18,7 @@
 - Postman (coming soon)
 - Selenium (coming soon)
 
-🌱 Building in public — Day 1 of 120
-Documenting everything I learn about QA Engineering
+🌱 Building in public — 120-day QA Engineer roadmap
+📂 2 complete portfolio projects live on GitHub
 
 📫 Connect with me on LinkedIn: linkedin.com/in/janhavimorajkar
