@@ -19,6 +19,7 @@
 - Selenium (coming soon)
 
 🌱 Building in public — 120-day QA Engineer roadmap
+
 📂 2 complete portfolio projects live on GitHub
 
 📫 Connect with me on LinkedIn: linkedin.com/in/janhavimorajkar
